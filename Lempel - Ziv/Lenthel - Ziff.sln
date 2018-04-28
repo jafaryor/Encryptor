@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Lenthel - Ziff", "Lenthel - Ziff\Lenthel - Ziff.vcxproj", "{985528D2-CCA1-483B-8647-F620C2462AAC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{985528D2-CCA1-483B-8647-F620C2462AAC}.Debug|Win32.ActiveCfg = Debug|Win32
+		{985528D2-CCA1-483B-8647-F620C2462AAC}.Debug|Win32.Build.0 = Debug|Win32
+		{985528D2-CCA1-483B-8647-F620C2462AAC}.Release|Win32.ActiveCfg = Release|Win32
+		{985528D2-CCA1-483B-8647-F620C2462AAC}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
